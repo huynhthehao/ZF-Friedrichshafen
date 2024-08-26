@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Capabilities_IT Finance Management Team "
+    name="001. Capabilities_IT Finance Management Team "
     id="id-557fc9099f084ed5845ba46181d82c3c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1158,6 +1158,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-b7d8e6e894364e808834e20cdcdaea53"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
       textAlignment="1"
       content="To Our Valued Strategic IT Partner at ZF,&#xD;&#xA;&#xD;&#xA;The ZF IT Finance Management Team is eager to deepen our understanding of your proven expertise and experience in supporting finance-specific applications and processes. To facilitate a meaningful dialogue, we have prepared a set of slides that will lay the groundwork for our subsequent discussions.&#xD;&#xA;&#xD;&#xA;Our IT Finance team is structured around specialized product teams, each one responsible for the business capabilities outlined on slides 4 through 13. These teams are also responsible for the applications on slides 14 to 21.&#xD;&#xA;&#xD;&#xA;As a first step, we´d like to organize a meeting with your team to explore potential opportunities for collaboration. During this meeting, we kindly ask you to provide a detailed exposition of your company’s proficiencies and historical engagements that align with our needs.&#xD;&#xA;&#xD;&#xA;We are looking forward to a fruitful exchange.&#xD;&#xA;&#xD;&#xA;Best regards, &#xD;&#xA;The ZF IT Finance Management Team&#xD;&#xA;">
     <bounds
@@ -1493,5 +1494,18 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-d2382b4542d541c18b459f8143d66ffb.xml#id-d2382b4542d541c18b459f8143d66ffb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-294752597c264f1183e5b8ddc141901e"
+      font="1|Segoe UI Semibold|9.75|0|WINDOWS|1|-13|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="L3 capability overarching enriched by Digitalization, Payroll cancelled&#xD;&#xA;Controlling took out Project Controlling > Domain D ">
+    <bounds
+        x="1500"
+        y="36"
+        width="661"
+        height="252"/>
   </children>
 </archimate:ArchimateDiagramModel>
