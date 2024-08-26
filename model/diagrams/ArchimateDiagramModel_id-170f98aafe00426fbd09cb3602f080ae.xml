@@ -15,9 +15,9 @@
       borderType="1">
     <bounds
         x="420"
-        y="96"
+        y="120"
         width="577"
-        height="889"/>
+        height="865"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -31,9 +31,9 @@
       borderType="1">
     <bounds
         x="1008"
-        y="96"
+        y="120"
         width="577"
-        height="889"/>
+        height="865"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -98,8 +98,8 @@
       font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
     <bounds
         x="396"
-        y="108"
-        width="1165"
+        y="132"
+        width="1669"
         height="37"/>
     <archimateElement
         xsi:type="archimate:Capability"
